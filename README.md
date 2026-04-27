@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anamika Garg</h1>
-<h3 align="center">🚀 Full Stack Web Developer | MERN Stack | Turning Ideas into Reality projects</h3>
+<h3 align="center">🚀 Full Stack Web Developer | MERN Stack | Turning Idea into Reality projects</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Scalable+Web+Apps;Passionate+Coder&center=true&width=550&height=45">

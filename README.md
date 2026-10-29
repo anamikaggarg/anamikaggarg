@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-* 🎓 Final Year B.Tech Student
+* 🎓 Btech Graduate
 * 💻 MERN Stack Developer
 * 🚀 Focused on building real-world, scalable applications
 * 🌱 Currently exploring **System Design & Advanced Backend**
